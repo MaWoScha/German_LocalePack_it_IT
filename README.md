@@ -43,22 +43,22 @@ MaWoScha
 Si tratta di un lavoro derivato di [German LocalePack de_DE](https://github.com/MaWoScha/German_LocalePack_de_DE) ([MaWoScha](https://github.com/MaWoScha/)) et [magento1_traduzione_italiana](https://github.com/antoniocarboni/magento1_traduzione_italiana) ([Antonio Carboni](http://antoniocarboni.com/)).
 
 Questa estensione viene testato con Magento 1.6.2, 1.7.0, 1.8.1, 1.9.0 y 1.9.1. <br />
-Il language pack è adatto per Magento 1.6.x per 1.9.3.x
+Il language pack è adatto per Magento 1.6.x per 1.9.3.10
 
 
 Se trata de una obra derivada de [German LocalePack de_DE](https://github.com/MaWoScha/German_LocalePack_de_DE) ([MaWoScha](https://github.com/MaWoScha/)) y [magento1_traduzione_italiana](https://github.com/antoniocarboni/magento1_traduzione_italiana) ([Antonio Carboni](http://antoniocarboni.com/)).
 
 Esta extensión se prueba con Magento 1.6.2, 1.7.0, 1.8.1, 1.9.0 y 1.9.1. <br />
-El paquete de idioma es adecuado para Magento 1.6.x hasta 1.9.3.x
+El paquete de idioma es adecuado para Magento 1.6.x hasta 1.9.3.10
 
 
 This is a derived work of [German LocalePack de_DE](https://github.com/MaWoScha/German_LocalePack_de_DE) ([MaWoScha](https://github.com/MaWoScha/)) and [magento1_traduzione_italiana](https://github.com/antoniocarboni/magento1_traduzione_italiana) ([Antonio Carboni](http://antoniocarboni.com/)).
 
 This extension is tested with Magento 1.6.2, 1.7.0, 1.8.1, 1.9.0 and 1.9.1. <br />
-The language pack is suitable for Magento 1.6.x to 1.9.3.x
+The language pack is suitable for Magento 1.6.x to 1.9.3.10
 
 
 Dies ist eine abgeleitete Arbeit von [German LocalePack de_DE](https://github.com/MaWoScha/German_LocalePack_de_DE) ([MaWoScha](https://github.com/MaWoScha/)) und [magento1_traduzione_italiana](https://github.com/antoniocarboni/magento1_traduzione_italiana) ([Antonio Carboni](http://antoniocarboni.com/)).
 
 Diese Erweiterung ist mit Magento 1.6.2, 1.7.0, 1.8.1, 1.9.0 und 1.9.1 getestet. <br />
-Das Sprachpaket ist für Magento 1.6.x bis 1.9.3.x
+Das Sprachpaket ist für Magento 1.6.x bis 1.9.3.10
