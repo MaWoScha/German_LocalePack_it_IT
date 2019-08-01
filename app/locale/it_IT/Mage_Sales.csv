@@ -290,6 +290,7 @@
 "Invalid draw line data. Please define ""lines"" array.","Linea di traccia dei dati non valida. Definisci le ""linee"" insieme."
 "Invalid entity model","Entità modello non valida."
 "Invalid item option format.","Formato opzione oggetti non valido."
+"Invalid order data.","Dati dell'ordine non validi."
 "Invalid qty to invoice item ""%s""","Qtà non valido per fatturare l\'oggetto ""%s"""
 "Invalid qty to refund item ""%s""","Qtà non valido per trovare l\'oggetto ""%s"""
 "Invalid qty to ship for item ""%s""","Qtà non valido per spedire l\'oggetto ""%s"""

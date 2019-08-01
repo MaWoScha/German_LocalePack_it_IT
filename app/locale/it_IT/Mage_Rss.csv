@@ -19,6 +19,7 @@
 "Discount","Sconto"
 "Discount (%s)","Sconto (%s)"
 "Enable RSS","Attiva RSS"
+"Enabling can increase security risk by exposing some order details.","L'abilitazione può aumentare il rischio per la sicurezza esponendo alcuni dettagli dell'ordine."
 "Error in processing xml. %s","Errore eleborando xml. %s"
 "From:","Da:"
 "Get Feed","Ottieni Feed"
