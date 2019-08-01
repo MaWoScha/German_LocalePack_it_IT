@@ -11,7 +11,8 @@
       "name":"Martino Fenu"
     },
     {
-      "name":"MaWoScha"
+      "name":"MaWoScha",
+      "email":"manfredwormschaefer@gmail.com"
     }
   ],
   "require": {
@@ -77,7 +78,7 @@
       ["js/tiny_mce/plugins/advlink/langs/it_dlg.js", "js/tiny_mce/plugins/advlink/langs/it_dlg.js"],
       ["js/tiny_mce/plugins/autosave/langs/it.js", "js/tiny_mce/plugins/autosave/langs/it.js"],
       ["js/tiny_mce/plugins/emotions/langs/it_dlg.js", "js/tiny_mce/plugins/emotions/langs/it_dlg.js"],
-      ["js/tiny_mce/plugins/fullpage/langs/it_dlg.js", "./s/tiny_mce/plugins/fullpage/langs/it_dlg.js"],
+      ["js/tiny_mce/plugins/fullpage/langs/it_dlg.js", "js/tiny_mce/plugins/fullpage/langs/it_dlg.js"],
       ["js/tiny_mce/plugins/media/langs/it_dlg.js", "js/tiny_mce/plugins/media/langs/it_dlg.js"],
       ["js/tiny_mce/plugins/paste/langs/it_dlg.js", "js/tiny_mce/plugins/paste/langs/it_dlg.js"],
       ["js/tiny_mce/plugins/searchreplace/langs/it_dlg.js", "js/tiny_mce/plugins/searchreplace/langs/it_dlg.js"],
